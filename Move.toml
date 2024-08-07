@@ -1,0 +1,15 @@
+[package]
+name = "vortexengine"
+version = "1.0.0"
+authors = []
+
+[addresses]
+vortex_engine_addr = "de5d94dac0db9e017d907b6e02a6d4274e0e2fbbe018e3a698d81e8da2028477"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-core.git"
+rev = "mainnet"
+subdir = "aptos-move/framework/aptos-framework"
+
+[dev-dependencies]
