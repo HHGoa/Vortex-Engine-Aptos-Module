@@ -1,0 +1,3 @@
+### Vortex Engine Move Contract
+
+Unlock the power of on-chain game development with the Vortex Engine Move contract for Aptos! This contract seamlessly integrates with the Vortex Engine suite, enabling developers to manage and store game data efficiently on the blockchain. It features the `EntityList` struct for organizing entries with IPFS hashes, timestamps, and wallet addresses. Key functionalities include creating new entry lists (`create_list`), adding game-related entries (`create_entry`), and robust error handling. With built-in tests to ensure reliability and accuracy, this contract provides a solid foundation for building immersive and secure on-chain gaming experiences.
