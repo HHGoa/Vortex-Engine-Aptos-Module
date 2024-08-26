@@ -8,4 +8,4 @@ Docs for integrating Move contract: https://deepakrajas-organization.gitbook.io/
 
 Website: https://vortexengine.vercel.app/
 
-Other Repos: 
+Other Repos: https://github.com/orgs/HHGoa/repositories
