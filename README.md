@@ -5,4 +5,7 @@ Unlock the power of on-chain game development with the Vortex Engine Move contra
 For the "Best Build on Aptos" track, we deployed a custom module to store essential game data, including timestamps, user wallet addresses, and entry IDs. This data is fetched into our scanner, providing users with a comprehensive view of their game transaction history. We chose the Aptos chain for its exceptional transaction speed, ensuring a seamless gaming experience. Due to challenges with existing Aptos documentation, we also created our own detailed integration guide.
 
 Docs for integrating Move contract: https://deepakrajas-organization.gitbook.io/aptos-move-docs
+
 Website: https://vortexengine.vercel.app/
+
+Other Repos: 
